@@ -15,7 +15,10 @@ Each organization can utilize this application for the handling the databases fo
 
 
 We would be using python based GUI for the application and complement it with Microsoft Azure cloud services for the database and productive deployment of the same.
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> 90f669df00a6c3acde776edd6fb5271849405e1c

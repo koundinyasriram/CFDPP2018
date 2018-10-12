@@ -18,7 +18,7 @@ The main features we aim to build are as follows:
 Each organization can utilize this application for handling the databases for each of their corresponding rescue and shelter camps and connect them for mutual association.
 
 
-We would be using python based GUI for the application and complement it with Microsoft Azure cloud services for the database and productive deployment of the same.
+We would be using python based GUI for the application along with ML based modules and complement it with Microsoft Azure cloud services for the database and productive deployment of the same.
 
 
 
